@@ -1,5 +1,5 @@
 # xcode-auto-signing-assets
-Automate creating Apple signing assets using xcodebuild
+Automate creating Apple signing assets using xcodebuild, **requires Xcode**.
 
 First, open `UpdateSigningAssets.xcodeproj`, click `UpdateSigingAssets` with blue icon in the top left, open `Signing & Capabilities` and select your `Team`.
 
